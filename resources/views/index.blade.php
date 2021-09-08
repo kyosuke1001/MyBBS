@@ -8,6 +8,7 @@
             <li>
                 <a href="{{ route('posts.show', $index) }}">
                     {{ $post }}
+                    ああああああ
                 </a>
             </li>
         @empty
